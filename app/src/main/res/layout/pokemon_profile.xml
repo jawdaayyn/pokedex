@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Page Profile -->
+
+
+    <RelativeLayout
+        android:id="@+id/pokemon_profile"
+        android:layout_width="477dp"
+        android:layout_height="785dp"
+        android:background="@drawable/pokemon_profile"
+        android:clipToOutline="true"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-1dp"
+        tools:layout_editor_absoluteY="0dp"
+        tools:targetApi="s">
+
+
+        <!-- 6 1 -->
+
+        <TextView
+            android:id="@+id/id_4"
+            android:layout_width="98dp"
+            android:layout_height="55dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="161dp"
+            android:fontFamily="@font/pokemon_fire_red"
+            android:gravity="center_vertical"
+            android:lineSpacingExtra="3sp"
+            android:text="@string/id_"
+            android:textAppearance="@style/id_"
+            tools:ignore="MissingConstraints"
+            tools:targetApi="s" />
+
+        <View
+            android:id="@+id/rectangle_1"
+            android:layout_width="137dp"
+            android:layout_height="136dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="264dp"
+            android:layout_marginTop="58dp"
+            android:background="@drawable/rectangle_1"
+            tools:ignore="MissingConstraints" />
+
+        <ImageView
+            android:id="@+id/sprite"
+            android:layout_width="117dp"
+            android:layout_height="117dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="273dp"
+            android:layout_marginTop="65dp"
+            android:contentDescription="@string/pokemon_s_sprite" />
+
+        <RelativeLayout
+            android:id="@+id/frame_1"
+            android:layout_width="412dp"
+            android:layout_height="37dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="-1dp"
+            android:layout_marginTop="749dp"
+            android:background="@drawable/frame_1"
+            android:clipToOutline="true"
+            tools:ignore="MissingConstraints"
+            tools:targetApi="s" />
+
+        <!-- Pokemon Name -->
+
+
+        <View
+            android:id="@+id/rectangle_2"
+            android:layout_width="189dp"
+            android:layout_height="80dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="11dp"
+            android:layout_marginTop="53dp"
+            android:background="@drawable/rectangle_2"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/pokemonname"
+            android:layout_width="134dp"
+            android:layout_height="51dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="36dp"
+            android:layout_marginTop="64dp"
+            android:fontFamily="@font/pokemon_fire_red"
+            android:gravity="center_vertical"
+            android:lineSpacingExtra="3sp"
+            android:text="@string/pokemonname"
+            android:textAppearance="@style/pokemonname" />
+
+        <!-- ID SHOWN -->
+
+        <!-- Type : -->
+
+
+        <TextView
+            android:id="@+id/id_"
+            android:layout_width="98dp"
+            android:layout_height="55dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="161dp"
+            android:fontFamily="@font/pokemon_fire_red"
+            android:gravity="center_vertical"
+            android:lineSpacingExtra="3sp"
+            android:text="@string/id_"
+            android:textAppearance="@style/id_"
+            tools:ignore="MissingConstraints"
+            tools:targetApi="s" />
+
+        <!-- Fire/Flying -->
+        <TextView
+            android:id="@+id/type_"
+            android:layout_width="98dp"
+            android:layout_height="55dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="241dp"
+            android:fontFamily="@font/pokemon_fire_red"
+            android:gravity="center_vertical"
+            android:lineSpacingExtra="3sp"
+            android:text="@string/type_"
+            android:textAppearance="@style/type_"
+            tools:ignore="MissingConstraints"
+            tools:targetApi="s" />
+
+        <TextView
+            android:id="@+id/types"
+            android:layout_width="185dp"
+            android:layout_height="55dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="95dp"
+            android:layout_marginTop="241dp"
+            android:fontFamily="@font/pokemon_fire_red"
+            android:gravity="center_vertical"
+            android:lineSpacingExtra="3sp"
+            android:text="@string/types"
+            android:textAppearance="@style/types" />
+
+        <Button
+            android:id="@+id/buttonshiny"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="285dp"
+            android:layout_marginTop="200dp"
+            android:backgroundTint="@color/gold"
+            android:text="Shiny"
+            android:theme="@style/Button.White" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/frame_2"
+        android:layout_width="420dp"
+        android:layout_height="34dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/frame_2"
+        android:clipToOutline="true"
+        tools:ignore="MissingConstraints"
+        tools:targetApi="s" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

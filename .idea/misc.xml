@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/drawable/frame2_xml.xml" value="0.1" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/drawable/frame_2.xml" value="0.1" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/drawable/pokemon_profile.xml" value="0.1" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/drawable/rectangle_1.xml" value="0.1" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/drawable/rectangle_2.xml" value="0.1" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/drawable/some_id.xml" value="0.1" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout-v31/pokemon_profile.xml" value="0.2713541666666667" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/activity_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/app_bar_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/content_navigation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/custom_list.xml" value="0.25" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/example_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/fragment.xml" value="0.16" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/fragment_first2.xml" value="0.1466565349544073" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/fragment_my.xml" value="0.18034447821681865" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/fragment_search.xml" value="0.25" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/listview_item.xml" value="0.1" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/nav_header.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/navigation.xml" value="0.33" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/pokemon_list_item.xml" value="0.67" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/pokemon_profile.xml" value="0.25" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/row_layout.xml" value="0.1" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/layout/text_row_item.xml" value="0.1" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/menu/nav_drawer_menu.xml" value="0.18518518518518517" />
+        <entry key="..\:/Users/jorda/AndroidStudioProjects/pokedexquivamarcherstp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
